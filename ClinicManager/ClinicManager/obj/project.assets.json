@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkg\\Desktop\\git\\ClinicManager\\ClinicManager\\ClinicManager\\ClinicManager.csproj",
+      "projectUniqueName": "C:\\Users\\bkg\\Source\\Repos\\ClinicManager\\ClinicManager\\ClinicManager\\ClinicManager.csproj",
       "projectName": "ClinicManager",
-      "projectPath": "C:\\Users\\bkg\\Desktop\\git\\ClinicManager\\ClinicManager\\ClinicManager\\ClinicManager.csproj",
+      "projectPath": "C:\\Users\\bkg\\Source\\Repos\\ClinicManager\\ClinicManager\\ClinicManager\\ClinicManager.csproj",
       "packagesPath": "C:\\Users\\bkg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkg\\Desktop\\git\\ClinicManager\\ClinicManager\\ClinicManager\\obj\\",
+      "outputPath": "C:\\Users\\bkg\\Source\\Repos\\ClinicManager\\ClinicManager\\ClinicManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkg\\AppData\\Roaming\\NuGet\\NuGet.Config",
